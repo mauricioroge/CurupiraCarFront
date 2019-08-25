@@ -1,16 +1,9 @@
 # CurupiraCarFront
 Projeto usando React.js
 
-Utilizei este Projeto como oportunidade para aprender React e cada vez mais maravilhado com esse Framework :D
+Projeto para aprender React e cada vez mais maravilhado com esse Framework :D
 
-## Executando o backend (CurupiraCar)
-Defina a string de conexão para o MySQL em ```CurupiraCarAPI/appsettings```
-
-Passos para atualizar a base:
-- Abra o Package Manager                       
-- Selecione o projeto Repositories                            
-- Execute o seguinte comando: ```Update-Database```
-- Execute o projeto ```CurupiraCarAPI```
+# Execute o backend: ([CurupiraCar](https://github.com/mauricioroge/CurupiraCar))
 
 ----
 ## Executando o Front-end (CurupiraCarFront) 
